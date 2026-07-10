@@ -249,7 +249,3 @@ Check that:
 - The overlay sends screenshots to OpenRouter for model inference.
 - Moss is used for semantic retrieval over prior generated explanations.
 - KaTeX rendering supports inline `$...$` and block `$$...$$` math.
-
-## License
-
-No license has been added yet. Add one before publishing publicly if you want others to use, modify, or distribute the project.
