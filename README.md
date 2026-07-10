@@ -1,4 +1,6 @@
 <img width="1160" height="615" alt="Screenshot 2026-07-10 at 11 42 24 PM" src="https://github.com/user-attachments/assets/e2ca6c77-7ef1-477f-b40e-d00af7ec289e" />
+
+
 # StudyOverlay
 
 StudyOverlay is a desktop overlay AI study assistant built with Python. It sits on top of whatever app, browser tab, PDF, quiz, or lecture material the user is viewing, captures the screen on demand, sends the screenshot to a vision-capable LLM through OpenRouter, and renders a tutor-style explanation inside a transparent glassmorphism overlay.
